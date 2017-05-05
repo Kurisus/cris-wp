@@ -1,0 +1,11 @@
+/*
+	Theme Name: twentyseventeen-child
+	Description: Descripción del tema
+	Template: twentyseventeen
+	Version: 1.0.0
+
+*/
+
+@import url("../twentyseventeen/style.css"); /*Ruta del css del tema padre*/
+
+
